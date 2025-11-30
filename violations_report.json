@@ -1,1 +1,60 @@
-[]
+[
+    {
+        "violation_class": "No_Helmet",
+        "number": "",
+        "frame": 1,
+        "time": "0:00:00",
+        "detected_objects": [
+            "person"
+        ],
+        "violation_type": "Safety",
+        "count": 201
+    },
+    {
+        "violation_class": "class_6",
+        "number": "",
+        "frame": 1,
+        "time": "0:00:00",
+        "detected_objects": [],
+        "violation_type": "Safety",
+        "count": 286
+    },
+    {
+        "violation_class": "class_4",
+        "number": "",
+        "frame": 1,
+        "time": "0:00:00",
+        "detected_objects": [],
+        "violation_type": "Safety",
+        "count": 29
+    },
+    {
+        "violation_class": "No_Helmet",
+        "number": "",
+        "frame": 150,
+        "time": "0:00:05",
+        "detected_objects": [
+            "person"
+        ],
+        "violation_type": "Safety",
+        "count": 6
+    },
+    {
+        "violation_class": "class_6",
+        "number": "",
+        "frame": 150,
+        "time": "0:00:05",
+        "detected_objects": [],
+        "violation_type": "Safety",
+        "count": 4
+    },
+    {
+        "violation_class": "class_4",
+        "number": "",
+        "frame": 150,
+        "time": "0:00:05",
+        "detected_objects": [],
+        "violation_type": "Safety",
+        "count": 4
+    }
+]
