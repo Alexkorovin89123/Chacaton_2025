@@ -31,7 +31,7 @@ def extract_frames(video_path, output_folder):
     print(f"Видео информация:")
     print(f" - FPS: {fps}")
     print(f" - Всего кадров: {total_frames}")
-    print(f" - Длительность: {duration:.2f} секунд")
+    print(f" - Длительность: {duration:.3f} секунд")
 
     frame_count = 0
     saved_count = 0
@@ -111,7 +111,7 @@ def extract_frames_with_interval(video_path, output_folder, interval=1):
 # Основная функция
 if __name__ == "__main__":
     # Укажите путь к вашему видеофайлу
-    video_file = "rem.mp4"  # Замените на путь к вашему видео
+    video_file = "remont_30.mp4"  # Замените на путь к вашему видео
 
     # Папка для сохранения кадров
     output_dir = "extracted_frames"
